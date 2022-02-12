@@ -18,6 +18,12 @@ News
 
 Publications
 ======
+<!--
+* **GeminiGuard: Cooperative Defense against Adversarial Attacks**<br/>
+<a style="color: #494e52; text-decoration: none; cursor: text; user-select: text;" href="javascript:return false;" draggable="false" oncontextmenu="return false"><font size="3">Quan Zhang, Yongqiang Tian, <strong>Yifeng Ding</strong>, Yu Jiang, Ting Chen, Chengnian Sun, Jiaguang Sun</font></a><br/>
+Submitted to *ACM Transactions on Software Engineering and Methodology*<br/>
+([*TOSEM*](https://dl.acm.org/journal/tosem)), under review.
+-->
 * **AdvDoor: Adversarial Backdoor Attack of Deep Learning System** [<a style="text-decoration: none;" href="http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/issta21_learning.pdf">paper</a>] [<a style="text-decoration: none;" href="https://github.com/AdvDoor/AdvDoor">code</a>]<br/>
 Quan Zhang, **Yifeng Ding**, Yongqiang Tian, Jianmin Guo, Min Yuan, Yu Jiang<br/>
 *Proceedings of the 30th ACM International Symposium on Software Testing and Analysis*<br/>
@@ -27,10 +33,8 @@ Works in Progress
 ======
 * **Deep Audio-Visual Speech Enhancement at Low SNR**<br/>
   In progress. (*Updated: Feb 10, 2022*)
-* **GeminiGuard: Cooperative Defense against Adversarial Attacks**<br/>
-<a style="color: #494e52; text-decoration: none; cursor: text; user-select: text;" href="javascript:return false;" draggable="false" oncontextmenu="return false"><font size="3">Quan Zhang, Yongqiang Tian, <strong>Yifeng Ding</strong>, Yu Jiang, Ting Chen, Chengnian Sun, Jiaguang Sun</font></a><br/>
-Submitted to *ACM Transactions on Software Engineering and Methodology*<br/>
-([*TOSEM*](https://dl.acm.org/journal/tosem)), under review.
+* **Defending Deep Learning System Against Adversarial Attack**<br/>
+  Under review. (*Updated: Feb 10, 2022*)
 
 Contacts
 ======
