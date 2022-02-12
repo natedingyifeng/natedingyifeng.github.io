@@ -26,7 +26,7 @@ Quan Zhang, **Yifeng Ding**, Yongqiang Tian, Jianmin Guo, Min Yuan, Yu Jiang<br/
 Works in Progress
 ======
 * **Deep Audio-Visual Speech Enhancement at Low SNR**<br/>
-  In progress. (*Updated*: Feb 10, 2022)
+  In progress. (*Updated: Feb 10, 2022*)
 * **GeminiGuard: Cooperative Defense against Adversarial Attacks**<br/>
 <a style="color: #494e52; text-decoration: none; cursor: text; user-select: text;" href="javascript:return false;" draggable="false" oncontextmenu="return false"><font size="3">Quan Zhang, Yongqiang Tian, <strong>Yifeng Ding</strong>, Yu Jiang, Ting Chen, Chengnian Sun, Jiaguang Sun</font></a><br/>
 Submitted to *ACM Transactions on Software Engineering and Methodology*<br/>
