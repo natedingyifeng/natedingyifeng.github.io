@@ -18,14 +18,19 @@ News
 
 Publications
 ======
-* **GeminiGuard: Cooperative Defense against Adversarial Attacks**<br/>
-<a style="color: #494e52; text-decoration: none; cursor: text; user-select: text;" href="javascript:return false;" draggable="false" oncontextmenu="return false"><font size="3">Quan Zhang, Yongqiang Tian, <strong>Yifeng Ding</strong>, Yu Jiang, Ting Chen, Chengnian Sun, Jiaguang Sun</font></a><br/>
-Submitted to *ACM Transactions on Software Engineering and Methodology*<br/>
-([*TOSEM*](https://dl.acm.org/journal/tosem)), under review.
 * **AdvDoor: Adversarial Backdoor Attack of Deep Learning System** [<a style="text-decoration: none;" href="http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/issta21_learning.pdf">paper</a>] [<a style="text-decoration: none;" href="https://github.com/AdvDoor/AdvDoor">code</a>]<br/>
 Quan Zhang, **Yifeng Ding**, Yongqiang Tian, Jianmin Guo, Min Yuan, Yu Jiang<br/>
 *Proceedings of the 30th ACM International Symposium on Software Testing and Analysis*<br/>
 ([*ISSTA 2021*](https://conf.researchr.org/home/issta-2021)), 12 pages, to appear, July 2021. (Acceptance ratio: **21.9%=51/233**)
+
+Works in Progress
+======
+* **Deep Audio-Visual Speech Enhancement at Low SNR**<br/>
+  In progress. (*Updated*: Feb 10, 2022)
+* **GeminiGuard: Cooperative Defense against Adversarial Attacks**<br/>
+<a style="color: #494e52; text-decoration: none; cursor: text; user-select: text;" href="javascript:return false;" draggable="false" oncontextmenu="return false"><font size="3">Quan Zhang, Yongqiang Tian, <strong>Yifeng Ding</strong>, Yu Jiang, Ting Chen, Chengnian Sun, Jiaguang Sun</font></a><br/>
+Submitted to *ACM Transactions on Software Engineering and Methodology*<br/>
+([*TOSEM*](https://dl.acm.org/journal/tosem)), under review.
 
 <!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
