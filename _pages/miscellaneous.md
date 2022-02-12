@@ -16,4 +16,4 @@ redirect_from:
 Hit Counter: <strong><span id="busuanzi_value_site_pv"><i class="fa fa-spinner fa-spin"></i></span></strong> hits!
 </span>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=f2f4d5&w=500&t=n&d=kql67fc7xJJD2n_vSylvYdQMV92ln-CzNrv_9svJ4ao&cmo=ff5353&cmn=3acc3a'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=n&d=kql67fc7xJJD2n_vSylvYdQMV92ln-CzNrv_9svJ4ao&cmo=3acc3a&cmn=ff5353&co=2d78ad&ct=ffffff'></script>
