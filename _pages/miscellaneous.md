@@ -15,3 +15,5 @@ redirect_from:
 <span id="busuanzi_container_site_pv">
 Hit Counter: <strong><span id="busuanzi_value_site_pv"><i class="fa fa-spinner fa-spin"></i></span></strong> hits!
 </span>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=f2f4d5&w=350&t=n&d=kql67fc7xJJD2n_vSylvYdQMV92ln-CzNrv_9svJ4ao&ct=f2f4d5&co=2d78ad&cmo=f7adc4&cmn=cc3a79'></script>
