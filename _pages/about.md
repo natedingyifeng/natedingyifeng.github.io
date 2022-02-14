@@ -39,7 +39,7 @@ Works in Progress
 Contacts
 ======
 * **Email**: dingyf18@mails.tsinghua.edu.cn
-* **WeChat ID(if you prefer to contact me this way)**: yifengnateding
+* **WeChat ID** (if you prefer to contact me this way): yifengnateding
 * **Address**: 11-321, East-Main Building, Tsinghua
 
 <!--
