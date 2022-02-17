@@ -38,7 +38,7 @@ Works in Progress
 
 Contacts
 ======
-* **Email**: dingyf18@mails.tsinghua.edu.cn
+* **Email**: dingyf18 at mails dot tsinghua dot edu dot cn
 * **WeChat ID** (if you prefer to contact me this way): yifengnateding
 * **Address**: 11-321, East-Main Building, Tsinghua
 
