@@ -10,6 +10,8 @@ author_profile: true
 
 {% for post in site.project %}
   {% if post.title == 'Deep Audio-Visual Speech Enhancement at Low SNR' %}
+    {% include project-avse.html %}
+  {% else %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
