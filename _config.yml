@@ -233,7 +233,7 @@ defaults:
       path: ""
       type: project
     values:
-      layout: single
+      layout: project
       author_profile: true
       share: false
       comment: false
