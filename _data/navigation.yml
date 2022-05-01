@@ -2,21 +2,3 @@
 main:
   - title: "About"
     url: /about/
-
-  - title: "Project"
-    url: /project/
-
-  - title: "Education"
-    url: /education/
-
-  - title: "Experience"
-    url: /experience/
-
-  - title: "Blog"
-    url: /blog/
-    
-  - title: "Miscellaneous"
-    url: /miscellaneous/
-    
-  - title: "CV"
-    url: /files/Yifeng_CV.pdf
