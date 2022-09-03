@@ -7,11 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first year PhD student at [University of Illinois at Urbana-Champaign](https://illinois.edu/) in the CS [PL/FM/SE](https://cs.illinois.edu/research/areas/programming-languages-formal-methods-and-software-engineering) group, advised by Prof. [Lingming Zhang](http://lingming.cs.illinois.edu/).
+I am a first year PhD student at [University of Illinois at Urbana-Champaign](https://illinois.edu/) in the CS [PL/FM/SE](https://cs.illinois.edu/research/areas/programming-languages-formal-methods-and-software-engineering) group, advised by Prof. [Lingming Zhang](http://lingming.cs.illinois.edu/). My research interest primarily lies in automated program repair, large language models, and software engineering.<br/>
 
-I obtained my bachelor's degree in Software Engineering from the [School of Software](https://www.thss.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/). I also obtained my second bachelor's degree in Business Administration from [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/). I was a research assistant at [Software System Security Assurance Group](http://www.wingtecher.com/homeen) during my undergraduate years, supervised by Prof. [Yu Jiang](https://sites.google.com/site/jiangyu198964/home).<br/>
-
-My research interest primarily lies in automated program repair, large language models, and software engineering.<br/>
+I obtained my bachelor's degree in Software Engineering from [School of Software](https://www.thss.tsinghua.edu.cn/en/) and my second bachelor's degree in Business Administration from [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/). I was a research assistant at [Software System Security Assurance Group](http://www.wingtecher.com/homeen) during my undergraduate years, supervised by Prof. [Yu Jiang](https://sites.google.com/site/jiangyu198964/home).<br/>
 
 News
 ======
