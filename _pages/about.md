@@ -7,9 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a senior undergraduate in the [School of Software](https://www.thss.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/). I also double major in Business Administration. Currently, I am a research assistant at [Software System Security Assurance Group](http://www.wingtecher.com/homeen), supervised by Prof. [Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I am going to start my PhD in Fall’22 under the supervision of Prof. [Lingming Zhang](http://lingming.cs.illinois.edu/) at [University of Illinois at Urbana-Champaign](https://illinois.edu/).<br/>
+I am a first year PhD student at [University of Illinois at Urbana-Champaign](https://illinois.edu/) in the CS [PL/FM/SE](https://cs.illinois.edu/research/areas/programming-languages-formal-methods-and-software-engineering) group, advised by Prof. [Lingming Zhang](http://lingming.cs.illinois.edu/).
 
-My research interest primarily lies in software engineering.<br/>
+I obtained my bachelor's degree in Software Engineering from the [School of Software](https://www.thss.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/). I also obtained my second bachelor's degree in Business Administration from [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/). I was a research assistant at [Software System Security Assurance Group](http://www.wingtecher.com/homeen) during my undergraduate years, supervised by Prof. [Yu Jiang](https://sites.google.com/site/jiangyu198964/home).<br/>
+
+My research interest primarily lies in automated program repair, large language models, and software engineering.<br/>
 
 News
 ======
@@ -40,9 +42,8 @@ Works in Progress
 
 Contacts
 ======
-* **Email**: dingyf18 at mails dot tsinghua dot edu dot cn
-* **WeChat ID** (if you prefer to contact me this way): yifengnateding
-* **Address**: 11-321, East-Main Building, Tsinghua
+* **Email**: yifeng6@illinois.edu
+* **Address**: 2107 Thomas M. Siebel Center for Computer Science, 201 North Goodwin Avenue, Urbana, IL
 
 <!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
