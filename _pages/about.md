@@ -7,44 +7,34 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year CS Ph.D. student at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) in the [PL/FM/SE](https://cs.illinois.edu/research/areas/programming-languages-formal-methods-and-software-engineering) group, advised by Prof. [Lingming Zhang](http://lingming.cs.illinois.edu/). My research interest primarily lies in **large language models** and **software engineering**.<br/>
+I am a second-year CS Ph.D. student at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) in the [PL/FM/SE](https://cs.illinois.edu/research/areas/programming-languages-formal-methods-and-software-engineering) group, advised by Prof. [Lingming Zhang](http://lingming.cs.illinois.edu/). My research interest primarily lies in the intersection of **large language models** and **software engineering**, with a current focus on using LLMs to improve automated debugging techniques including Automated Program Repair (APR) and Fault Localization (FL).<br/>
 
 I obtained my bachelor's degrees at [Tsinghua University](https://www.tsinghua.edu.cn/en/), including one in Software Engineering from the [School of Software](https://www.thss.tsinghua.edu.cn/en/) and one in Business Administration from the [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/). I was a research assistant at [Software System Security Assurance Group](http://www.wingtecher.com/homeen) during my undergraduate years, advised by Prof. [Yu Jiang](https://sites.google.com/site/jiangyu198964/home).<br/>
 
-<!-- For **CS 591 LRS: Improving Your Research Skills**:
-* **Research interest**: I am currently interested in using Large Language Models (LLM) for automated program repair. Specifically, my research work contains two perspectives:
-  * **Pre-training phase**: LLMs are pre-trained on large un-labeled corpora to learn how to generate and understand codes. My research work aims at designing new techniques to add human knowledge to raw corpora, which will improve the performance of LLMs on multiple code-related tasks, including program repair.
-  * **Inferencing phase**: When using LLMs for program repair, we need to provide LLMs with the context information which is related to the bugs that we want to repair. My research work aims at designing new techniques to extract more accurate context information that is rich in knowledge, which will help LLMs repair bugs more effectively and efficiently.<br/>
-* **Challenges** that I face:
-  * **Large Search Space**: The search space for program repair is inexhaustible, which makes it hard even to find one correct fix for one bug. One possible solution is to divide the large search space into many specific subspaces, which can efficiently reduce the real search space that we are facing. The other solution is to add more knowledge to LLMs, which can let LLMs generate correct fixes more efficiently.
-  * **Hard to add human knowledge to LLMs**: Adding human knowledge to LLMs should improve its performance, but it is difficult to insert PL knowledge (abstract syntax tree, control/data flow, etc.) into LLMs effectively. If we cannot design a reasonable technique to apply human knowledge to LLMs, it will harm the performance of LLMs because more noise is added to training data. My current solution is to keep learning and trying more related techniques in the NLP area and to see whether these techniques will work.<br/> -->
-
 News
 ======
+* **[2023-09]** One research paper on *LLM for automated program repair* is publised in [ASE'23](https://conf.researchr.org/home/ase-2023)! 
+* **[2023-07]** One research paper on *deep learning system robustness* is publised in [ISSTA'23](https://conf.researchr.org/home/issta-2023)! 
 * **[2022-01]** I'm thrilled to get accepted into the Ph.D. program at [Illinois CS](https://cs.illinois.edu/)!
-* **[2021-07]** One research paper on *deep learning system backdoor* accepted to [ISSTA'21](https://conf.researchr.org/home/issta-2021)! 
+* **[2021-07]** One research paper on *deep learning system robustness* is published in [ISSTA'21](https://conf.researchr.org/home/issta-2021)! 
 
 Publications
 ======
-<!--
-* **GeminiGuard: Cooperative Defense against Adversarial Attacks**<br/>
-<a style="color: #494e52; text-decoration: none; cursor: text; user-select: text;" href="javascript:return false;" draggable="false" oncontextmenu="return false"><font size="3">Quan Zhang, Yongqiang Tian, <strong>Yifeng Ding</strong>, Yu Jiang, Ting Chen, Chengnian Sun, Jiaguang Sun</font></a><br/>
-Submitted to *ACM Transactions on Software Engineering and Methodology*<br/>
-([*TOSEM*](https://dl.acm.org/journal/tosem)), under review.
--->
-* **AdvDoor: Adversarial Backdoor Attack of Deep Learning System** [<a style="text-decoration: none;" href="http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/issta21_learning.pdf">paper</a>] [<a style="text-decoration: none;" href="https://github.com/AdvDoor/AdvDoor">code</a>]<br/>
+* **Magicoder: Source Code Is All You Need** [<a style="text-decoration: none;" href="https://arxiv.org/abs/2312.02120">paper</a>]<br/>
+Yuxiang Wei, Zhe Wang, Jiawei Liu, **Yifeng Ding**, and Lingming Zhang<br/>
+*Arxiv*<br/>
+* **The Plastic Surgery Hypothesis in the Era of Large Language Models** [<a style="text-decoration: none;" href="https://www.computer.org/csdl/proceedings-article/ase/2023/299600a522/1SBGpT02wpy">paper</a>]<br/>
+Chunqiu Steven Xia, **Yifeng Ding**, and Lingming Zhang<br/>
+*38th IEEE/ACM International Conference on Automated Software Engineering*<br/>
+([*ASE 2023*](https://conf.researchr.org/home/ase-2023)), pages 522--534, September 2023.
+* **CoopHance: Cooperative Enhancement for Robustness of Deep Learning Systems** [<a style="text-decoration: none;" href="https://dl.acm.org/doi/abs/10.1145/3597926.3598093">paper</a>]<br/>
+Quan Zhang, Yongqiang Tian, **Yifeng Ding**, Shanshan Li, Chengnian Sun, Yu Jiang, Jiaguang Sun<br/>
+*32nd ACM International Symposium on Software Testing and Analysis*<br/>
+([*ISSTA 2023*](https://conf.researchr.org/home/issta-2023)), pages 753--765, July 2023.
+* **AdvDoor: Adversarial Backdoor Attack of Deep Learning System** [<a style="text-decoration: none;" href="https://dl.acm.org/doi/10.1145/3460319.3464809">paper</a>]<br/>
 Quan Zhang, **Yifeng Ding**, Yongqiang Tian, Jianmin Guo, Min Yuan, Yu Jiang<br/>
-*Proceedings of the 30th ACM International Symposium on Software Testing and Analysis*<br/>
-([*ISSTA 2021*](https://conf.researchr.org/home/issta-2021)), 12 pages, to appear, July 2021. (Acceptance ratio: **21.9%=51/233**)
-
-<!--
-Works in Progress
-======
-* **Deep Audio-Visual Speech Enhancement at Low SNR**<br/>
-  In progress. (*Updated: Feb 10, 2022*)
-* **Defending Deep Learning System Against Adversarial Attack**<br/>
-  Under review. (*Updated: Feb 10, 2022*)
--->
+*30th ACM International Symposium on Software Testing and Analysis*<br/>
+([*ISSTA 2021*](https://conf.researchr.org/home/issta-2021)), pages 127--138, July 2021.
 
 Contacts
 ======
