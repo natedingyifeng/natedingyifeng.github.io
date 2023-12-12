@@ -36,13 +36,13 @@ Quan Zhang, **Yifeng Ding**, Yongqiang Tian, Jianmin Guo, Min Yuan, Yu Jiang<br/
 *30th ACM International Symposium on Software Testing and Analysis*<br/>
 ([*ISSTA 2021*](https://conf.researchr.org/home/issta-2021)), Pages 127--138, July 2021. [<a style="text-decoration: none;" href="https://dl.acm.org/doi/10.1145/3460319.3464809">paper</a>]
 
-Service
+Academic Service
 ======
 * Web Chair of [LLM4Code Workshop 2024](https://llm4code.github.io/), co-located with [ICSE 2024](https://conf.researchr.org/home/icse-2024).
 
 Talk
 ======
-* Apr 2023, Uber Program Analysis Group: Equipping Large Language Models with Domain-Specific Knowledge for Automated Program Repair.
+* [Uber Programming Systems Team](https://www.uber.com/us/en/about/science/): Equipping Large Language Models with Domain-Specific Knowledge for Automated Program Repair.
 
 Contacts
 ======

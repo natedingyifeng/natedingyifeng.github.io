@@ -2,3 +2,5 @@
 main:
   - title: "About"
     url: /about/
+  - title: "CV"
+    url: /files/Yifeng_CV.pdf
