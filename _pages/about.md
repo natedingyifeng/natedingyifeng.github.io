@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year CS Ph.D. student at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) in the [PL/FM/SE](https://cs.illinois.edu/research/areas/programming-languages-formal-methods-and-software-engineering) group, advised by Prof. [Lingming Zhang](http://lingming.cs.illinois.edu/). My research interest primarily lies in the intersection of **large language models** and **software engineering**. Currently, I focus on using LLMs to improve automated debugging techniques, including Automated Program Repair (APR) and Fault Localization (FL).<br/>
+I am a second-year CS Ph.D. student at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) in the [PL/FM/SE](https://cs.illinois.edu/research/areas/programming-languages-formal-methods-and-software-engineering) group, advised by Prof. [Lingming Zhang](http://lingming.cs.illinois.edu/). My research interest primarily lies in the intersection of **large language models** and **software engineering**. Currently, I focus on using LLMs to improve **automated debugging** techniques, including Automated Program Repair (APR) and Fault Localization (FL).<br/>
 
 I obtained my bachelor's degrees at [Tsinghua University](https://www.tsinghua.edu.cn/en/), including one in Software Engineering from the [School of Software](https://www.thss.tsinghua.edu.cn/en/) and one in Business Administration from the [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/). I was a research assistant at [Software System Security Assurance Group](http://www.wingtecher.com/homeen) during my undergraduate years, advised by Prof. [Yu Jiang](https://sites.google.com/site/jiangyu198964/home).<br/>
 
@@ -22,19 +22,27 @@ Publications
 ======
 * **Magicoder: Source Code Is All You Need**<br/>
 Yuxiang Wei, Zhe Wang, Jiawei Liu, **Yifeng Ding**, and Lingming Zhang<br/>
-*Arxiv*, preprint, December 2023. [<a style="text-decoration: none;" href="https://arxiv.org/abs/2312.02120">preprint</a>]
+*Arxiv*, Preprint, December 2023. [<a style="text-decoration: none;" href="https://arxiv.org/abs/2312.02120">preprint</a>]
 * **The Plastic Surgery Hypothesis in the Era of Large Language Models**<br/>
 Chunqiu Steven Xia, **Yifeng Ding**, and Lingming Zhang<br/>
 *38th IEEE/ACM International Conference on Automated Software Engineering*<br/>
-([*ASE 2023*](https://conf.researchr.org/home/ase-2023)), pages 522--534, September 2023. [<a style="text-decoration: none;" href="https://www.computer.org/csdl/proceedings-article/ase/2023/299600a522/1SBGpT02wpy">paper</a>]
+([*ASE 2023*](https://conf.researchr.org/home/ase-2023)), Pages 522--534, September 2023. [<a style="text-decoration: none;" href="https://www.computer.org/csdl/proceedings-article/ase/2023/299600a522/1SBGpT02wpy">paper</a>]
 * **CoopHance: Cooperative Enhancement for Robustness of Deep Learning Systems**<br/>
 <a style="color: #494e52; text-decoration: none; cursor: text; user-select: text;" href="javascript:return false;" draggable="false" oncontextmenu="return false"><font size="3">Quan Zhang, Yongqiang Tian, <strong>Yifeng Ding</strong>, Shanshan Li, Chengnian Sun, Yu Jiang, Jiaguang Sun</font></a><br/>
 *32nd ACM International Symposium on Software Testing and Analysis*<br/>
-([*ISSTA 2023*](https://conf.researchr.org/home/issta-2023)), pages 753--765, July 2023. [<a style="text-decoration: none;" href="https://dl.acm.org/doi/abs/10.1145/3597926.3598093">paper</a>]
+([*ISSTA 2023*](https://conf.researchr.org/home/issta-2023)), Pages 753--765, July 2023. [<a style="text-decoration: none;" href="https://dl.acm.org/doi/abs/10.1145/3597926.3598093">paper</a>]
 * **AdvDoor: Adversarial Backdoor Attack of Deep Learning System**<br/>
 Quan Zhang, **Yifeng Ding**, Yongqiang Tian, Jianmin Guo, Min Yuan, Yu Jiang<br/>
 *30th ACM International Symposium on Software Testing and Analysis*<br/>
-([*ISSTA 2021*](https://conf.researchr.org/home/issta-2021)), pages 127--138, July 2021. [<a style="text-decoration: none;" href="https://dl.acm.org/doi/10.1145/3460319.3464809">paper</a>]
+([*ISSTA 2021*](https://conf.researchr.org/home/issta-2021)), Pages 127--138, July 2021. [<a style="text-decoration: none;" href="https://dl.acm.org/doi/10.1145/3460319.3464809">paper</a>]
+
+Service
+======
+* Web Chair of [LLM4Code Workshop 2024](https://llm4code.github.io/), co-located with [ICSE 2024](https://conf.researchr.org/home/icse-2024).
+
+Talk
+======
+* Apr 2023, Uber Program Analysis Group: Equipping Large Language Models with Domain-Specific Knowledge for Automated Program Repair.
 
 Contacts
 ======
