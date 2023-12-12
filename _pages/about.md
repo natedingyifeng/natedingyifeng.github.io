@@ -13,10 +13,10 @@ I obtained my bachelor's degrees at [Tsinghua University](https://www.tsinghua.e
 
 News
 ======
-* **[2023-09]** One research paper on *LLM for automated program repair* is publised in [ASE'23](https://conf.researchr.org/home/ase-2023)! 
-* **[2023-07]** One research paper on *deep learning system robustness* is publised in [ISSTA'23](https://conf.researchr.org/home/issta-2023)! 
+* **[2023-09]** One research paper on *LLM for automated program repair* publised in [ASE'23](https://conf.researchr.org/home/ase-2023)! 
+* **[2023-07]** One research paper on *deep learning system robustness* publised in [ISSTA'23](https://conf.researchr.org/home/issta-2023)! 
 * **[2022-01]** I'm thrilled to get accepted into the Ph.D. program at [Illinois CS](https://cs.illinois.edu/)!
-* **[2021-07]** One research paper on *deep learning system robustness* is published in [ISSTA'21](https://conf.researchr.org/home/issta-2021)! 
+* **[2021-07]** One research paper on *deep learning system robustness* published in [ISSTA'21](https://conf.researchr.org/home/issta-2021)! 
 
 Publications
 ======
