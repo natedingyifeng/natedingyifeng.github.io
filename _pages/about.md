@@ -20,21 +20,21 @@ News
 
 Publications
 ======
-* **Magicoder: Source Code Is All You Need** [<a style="text-decoration: none;" href="https://arxiv.org/abs/2312.02120">preprint</a>]<br/>
+* **Magicoder: Source Code Is All You Need**<br/>
 Yuxiang Wei, Zhe Wang, Jiawei Liu, **Yifeng Ding**, and Lingming Zhang<br/>
-*Arxiv*, preprint, December 2023.<br/>
-* **The Plastic Surgery Hypothesis in the Era of Large Language Models** [<a style="text-decoration: none;" href="https://www.computer.org/csdl/proceedings-article/ase/2023/299600a522/1SBGpT02wpy">paper</a>]<br/>
+*Arxiv*, preprint, December 2023. [<a style="text-decoration: none;" href="https://arxiv.org/abs/2312.02120">preprint</a>]
+* **The Plastic Surgery Hypothesis in the Era of Large Language Models**<br/>
 Chunqiu Steven Xia, **Yifeng Ding**, and Lingming Zhang<br/>
 *38th IEEE/ACM International Conference on Automated Software Engineering*<br/>
-([*ASE 2023*](https://conf.researchr.org/home/ase-2023)), pages 522--534, September 2023.
-* **CoopHance: Cooperative Enhancement for Robustness of Deep Learning Systems** [<a style="text-decoration: none;" href="https://dl.acm.org/doi/abs/10.1145/3597926.3598093">paper</a>]<br/>
+([*ASE 2023*](https://conf.researchr.org/home/ase-2023)), pages 522--534, September 2023. [<a style="text-decoration: none;" href="https://www.computer.org/csdl/proceedings-article/ase/2023/299600a522/1SBGpT02wpy">paper</a>]
+* **CoopHance: Cooperative Enhancement for Robustness of Deep Learning Systems**<br/>
 <a style="color: #494e52; text-decoration: none; cursor: text; user-select: text;" href="javascript:return false;" draggable="false" oncontextmenu="return false"><font size="3">Quan Zhang, Yongqiang Tian, <strong>Yifeng Ding</strong>, Shanshan Li, Chengnian Sun, Yu Jiang, Jiaguang Sun</font></a><br/>
 *32nd ACM International Symposium on Software Testing and Analysis*<br/>
-([*ISSTA 2023*](https://conf.researchr.org/home/issta-2023)), pages 753--765, July 2023.
-* **AdvDoor: Adversarial Backdoor Attack of Deep Learning System** [<a style="text-decoration: none;" href="https://dl.acm.org/doi/10.1145/3460319.3464809">paper</a>]<br/>
+([*ISSTA 2023*](https://conf.researchr.org/home/issta-2023)), pages 753--765, July 2023. [<a style="text-decoration: none;" href="https://dl.acm.org/doi/abs/10.1145/3597926.3598093">paper</a>]
+* **AdvDoor: Adversarial Backdoor Attack of Deep Learning System**<br/>
 Quan Zhang, **Yifeng Ding**, Yongqiang Tian, Jianmin Guo, Min Yuan, Yu Jiang<br/>
 *30th ACM International Symposium on Software Testing and Analysis*<br/>
-([*ISSTA 2021*](https://conf.researchr.org/home/issta-2021)), pages 127--138, July 2021.
+([*ISSTA 2021*](https://conf.researchr.org/home/issta-2021)), pages 127--138, July 2021. [<a style="text-decoration: none;" href="https://dl.acm.org/doi/10.1145/3460319.3464809">paper</a>]
 
 Contacts
 ======
