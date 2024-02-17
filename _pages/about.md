@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year CS Ph.D. student at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) in the [PL/FM/SE](https://cs.illinois.edu/research/areas/programming-languages-formal-methods-and-software-engineering) group, advised by Prof. [Lingming Zhang](http://lingming.cs.illinois.edu/). 
+I am a second-year CS Ph.D. student at the [University of Illinois Urbana-Champaign](https://illinois.edu/) in the [PL/FM/SE](https://cs.illinois.edu/research/areas/programming-languages-formal-methods-and-software-engineering) group, advised by Prof. [Lingming Zhang](http://lingming.cs.illinois.edu/). 
 
 My research interest lies in **Large Language Models** (**LLM**) **for Code**. My ongoing works include improving LLMs with **Instruction Tuning** and **Mixture-of-Experts** (**MoE**) for better code generation and automated debugging. You can find my CV [here](/files/Yifeng_CV.pdf).<br/>
 
