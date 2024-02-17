@@ -25,7 +25,7 @@ Publications
 ======
 * **${\mathcal X}$FT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts**<br/>
 **Yifeng Ding**, Jiawei Liu, Yuxiang Wei, and Lingming Zhang<br/>
-Preprint, February 2023. [[preprint](/files/XFT_preprint_1.pdf)]
+Preprint, February 2024. [[preprint](/files/XFT_preprint_1.pdf)]
 * **Magicoder: Source Code Is All You Need**<br/>
 Yuxiang Wei, Zhe Wang, Jiawei Liu, **Yifeng Ding**, and Lingming Zhang<br/>
 *arXiv*, Preprint, December 2023. [<a style="text-decoration: none;" href="https://arxiv.org/abs/2312.02120">preprint</a>]
