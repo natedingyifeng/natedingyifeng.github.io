@@ -15,7 +15,7 @@ I obtained my bachelor's degrees at [Tsinghua University](https://www.tsinghua.e
 
 News
 ======
-* **[2024-02]** Check out our new [preprint](/files/XFT_preprint_1.pdf) on *Instruction Tuning for Code*!
+* **[2024-02]** Check out our new [preprint](https://arxiv.org/abs/2404.15247) on *Instruction Tuning for Code*!
 * **[2023-09]** One research paper on *LLM for APR* publised in [ASE'23](https://conf.researchr.org/home/ase-2023)! 
 * **[2023-07]** One research paper on *Deep Learning Robustness* publised in [ISSTA'23](https://conf.researchr.org/home/issta-2023)! 
 * **[2022-01]** I'm thrilled to get accepted into the Ph.D. program at [Illinois CS](https://cs.illinois.edu/)!
