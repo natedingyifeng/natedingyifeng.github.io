@@ -27,11 +27,11 @@ Publications
 * **${\mathcal X}$FT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts**<br/>
 **Yifeng Ding**, Jiawei Liu, Yuxiang Wei, Terry Yue Zhuo, and Lingming Zhang<br/>
 *62nd Annual Meeting of the Association for Computational Linguistics*<br/>
-([*ACL 2024*](https://2024.aclweb.org/)), To appear, August 2024. [<a style="text-decoration: none;" href="https://arxiv.org/abs/2404.15247">paper</a>]
+([*ACL 2024*](https://2024.aclweb.org)), To appear, August 2024. [<a style="text-decoration: none;" href="https://arxiv.org/abs/2404.15247">paper</a>]
 * **Magicoder: Source Code Is All You Need**<br/>
 Yuxiang Wei, Zhe Wang, Jiawei Liu, **Yifeng Ding**, and Lingming Zhang<br/>
 *Forty-first International Conference on Machine Learning*<br/>
-([*ICML 2024*](https://2024.aclweb.org/)), To appear, July 2024. [<a style="text-decoration: none;" href="https://arxiv.org/abs/2312.02120">paper</a>]
+([*ICML 2024*](https://icml.cc/Conferences/2024)), To appear, July 2024. [<a style="text-decoration: none;" href="https://arxiv.org/abs/2312.02120">paper</a>]
 * **The Plastic Surgery Hypothesis in the Era of Large Language Models**<br/>
 Chunqiu Steven Xia, **Yifeng Ding**, and Lingming Zhang<br/>
 *38th IEEE/ACM International Conference on Automated Software Engineering*<br/>
