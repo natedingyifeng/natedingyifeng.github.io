@@ -15,7 +15,7 @@ I obtained my bachelor's degrees at [Tsinghua University](https://www.tsinghua.e
 
 News
 ======
-* **[2024-05]** One research paper on *Mixture-of-Expert* and *Model Merging* publised at [ACL'24](https://2024.aclweb.org)!
+* **[2024-05]** One research paper on *Mixture-of-Expert*, *Model Merging*, and *Instruction Tuning* publised at [ACL'24](https://2024.aclweb.org)!
 * **[2024-05]** One research paper on *Instruction Tuning for Code* publised at [ICML'24](https://icml.cc/Conferences/2024)!
 * **[2023-09]** One research paper on *LLM for APR* publised at [ASE'23](https://conf.researchr.org/home/ase-2023)! 
 * **[2023-07]** One research paper on *Deep Learning Robustness* publised at [ISSTA'23](https://conf.researchr.org/home/issta-2023)! 
