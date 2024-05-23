@@ -15,20 +15,23 @@ I obtained my bachelor's degrees at [Tsinghua University](https://www.tsinghua.e
 
 News
 ======
-* **[2024-02]** Check out our new [preprint](https://arxiv.org/abs/2404.15247) on *Instruction Tuning for Code*!
-* **[2023-09]** One research paper on *LLM for APR* publised in [ASE'23](https://conf.researchr.org/home/ase-2023)! 
-* **[2023-07]** One research paper on *Deep Learning Robustness* publised in [ISSTA'23](https://conf.researchr.org/home/issta-2023)! 
+* **[2024-05]** One research paper on *Mixture-of-Expert* and *Model Merging* publised at [ACL'24](https://2024.aclweb.org)!
+* **[2024-05]** One research paper on *Instruction Tuning for Code* publised at [ICML'24](https://icml.cc/Conferences/2024)!
+* **[2023-09]** One research paper on *LLM for APR* publised at [ASE'23](https://conf.researchr.org/home/ase-2023)! 
+* **[2023-07]** One research paper on *Deep Learning Robustness* publised at [ISSTA'23](https://conf.researchr.org/home/issta-2023)! 
 * **[2022-01]** I'm thrilled to get accepted into the Ph.D. program at [Illinois CS](https://cs.illinois.edu/)!
-* **[2021-07]** One research paper on *Deep Learning Robustness* published in [ISSTA'21](https://conf.researchr.org/home/issta-2021)! 
+* **[2021-07]** One research paper on *Deep Learning Robustness* published at [ISSTA'21](https://conf.researchr.org/home/issta-2021)! 
 
 Publications
 ======
 * **${\mathcal X}$FT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts**<br/>
-**Yifeng Ding**, Jiawei Liu, Yuxiang Wei, and Lingming Zhang<br/>
-*arXiv*, Preprint, February 2024. [<a style="text-decoration: none;" href="https://arxiv.org/abs/2404.15247">preprint</a>]
+**Yifeng Ding**, Jiawei Liu, Yuxiang Wei, Terry Yue Zhuo, and Lingming Zhang<br/>
+*62nd Annual Meeting of the Association for Computational Linguistics*<br/>
+([*ACL 2024*](https://2024.aclweb.org/)), To appear, August 2024. [<a style="text-decoration: none;" href="https://arxiv.org/abs/2404.15247">paper</a>]
 * **Magicoder: Source Code Is All You Need**<br/>
 Yuxiang Wei, Zhe Wang, Jiawei Liu, **Yifeng Ding**, and Lingming Zhang<br/>
-*arXiv*, Preprint, December 2023. [<a style="text-decoration: none;" href="https://arxiv.org/abs/2312.02120">preprint</a>]
+*Forty-first International Conference on Machine Learning*<br/>
+([*ICML 2024*](https://2024.aclweb.org/)), To appear, July 2024. [<a style="text-decoration: none;" href="https://arxiv.org/abs/2312.02120">paper</a>]
 * **The Plastic Surgery Hypothesis in the Era of Large Language Models**<br/>
 Chunqiu Steven Xia, **Yifeng Ding**, and Lingming Zhang<br/>
 *38th IEEE/ACM International Conference on Automated Software Engineering*<br/>
@@ -44,7 +47,7 @@ Quan Zhang, **Yifeng Ding**, Yongqiang Tian, Jianmin Guo, Min Yuan, Yu Jiang<br/
 
 Academic Service
 ======
-* Reviewer: ACL/ARR 2024 Feb
+* Reviewer: ACL 2024/ARR 2024 Feb
 * Web Chair of [LLM4Code Workshop 2024](https://llm4code.github.io/), co-located with [ICSE 2024](https://conf.researchr.org/home/icse-2024).
 
 Talk
