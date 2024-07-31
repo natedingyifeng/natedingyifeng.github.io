@@ -52,6 +52,7 @@ Academic Service
 
 Talk
 ======
+* [AWS Comprehend - Deep NLP Reading Group](https://aws.amazon.com/comprehend/): ${\mathcal X}$FT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts
 * [Uber Programming Systems Team](https://www.uber.com/us/en/about/science/): Equipping Large Language Models with Domain-Specific Knowledge for Automated Program Repair.
 
 Contacts
