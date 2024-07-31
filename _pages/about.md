@@ -47,7 +47,7 @@ Quan Zhang, **Yifeng Ding**, Yongqiang Tian, Jianmin Guo, Min Yuan, Yu Jiang<br/
 
 Academic Service
 ======
-* Reviewer: NeurIPS 2024, ACL 2024
+* Reviewer: NAACL/ARR 2024 Jun, NeurIPS 2024, ACL/ARR 2024 Feb
 * Organizing Committee: [LLM4Code@ICSE'24](https://llm4code.github.io/)
 
 Talk
