@@ -9,18 +9,18 @@ redirect_from:
 ---
 I am a second-year CS Ph.D. student at the [University of Illinois Urbana-Champaign](https://illinois.edu/) in the [PL/FM/SE](https://cs.illinois.edu/research/areas/programming-languages-formal-methods-and-software-engineering) group, advised by Prof. [Lingming Zhang](http://lingming.cs.illinois.edu/). 
 
-My research interest lies in Software Engineering and its synergy with Machine Learning, with a focus on Large Language Models (LLMs) for Code. You can find my CV [here](/files/Yifeng_CV.pdf).<br/>
+My research interest lies in Software Engineering and its synergy with Machine Learning. You can find my CV [here](/files/Yifeng_CV.pdf).<br/>
 
 I obtained my bachelor's degrees at [Tsinghua University](https://www.tsinghua.edu.cn/en/), including one in Software Engineering from the [School of Software](https://www.thss.tsinghua.edu.cn/en/) and one in Business Administration from the [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/). I was a research assistant at [Software System Security Assurance Group](http://www.wingtecher.com/homeen) during my undergraduate years, advised by Prof. [Yu Jiang](https://sites.google.com/site/jiangyu198964/home).<br/>
 
-News
+<!-- News
 ======
 * **[2024-05]** One research paper on *Mixture-of-Expert*, *Model Merging*, and *Instruction Tuning* publised at [ACL'24](https://2024.aclweb.org)!
 * **[2024-05]** One research paper on *Instruction Tuning for Code* publised at [ICML'24](https://icml.cc/Conferences/2024)!
 * **[2023-09]** One research paper on *LLM for APR* publised at [ASE'23](https://conf.researchr.org/home/ase-2023)! 
 * **[2023-07]** One research paper on *Deep Learning Robustness* publised at [ISSTA'23](https://conf.researchr.org/home/issta-2023)! 
 * **[2022-01]** I'm thrilled to get accepted into the Ph.D. program at [Illinois CS](https://cs.illinois.edu/)!
-* **[2021-07]** One research paper on *Deep Learning Robustness* published at [ISSTA'21](https://conf.researchr.org/home/issta-2021)! 
+* **[2021-07]** One research paper on *Deep Learning Robustness* published at [ISSTA'21](https://conf.researchr.org/home/issta-2021)!  -->
 
 Selected Publications
 ======
