@@ -22,7 +22,7 @@ News
 * **[2022-01]** I'm thrilled to get accepted into the Ph.D. program at [Illinois CS](https://cs.illinois.edu/)!
 * **[2021-07]** One research paper on *Deep Learning Robustness* published at [ISSTA'21](https://conf.researchr.org/home/issta-2021)! 
 
-Publications
+Selected Publications
 ======
 * **${\mathcal X}$FT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts**<br/>
 **Yifeng Ding**, Jiawei Liu, Yuxiang Wei, Terry Yue Zhuo, and Lingming Zhang<br/>
