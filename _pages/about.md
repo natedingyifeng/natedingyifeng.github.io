@@ -25,7 +25,7 @@ I obtained my bachelor's degrees at [Tsinghua University](https://www.tsinghua.e
 Selected Publications
 ======
 * **${\mathcal X}$FT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts**<br/>
-**Yifeng Ding**, Jiawei Liu, Yuxiang Wei, Terry Yue Zhuo, and Lingming Zhang<br/>
+**Yifeng Ding**, Jiawei Liu, Yuxiang Wei, and Lingming Zhang<br/>
 *62nd Annual Meeting of the Association for Computational Linguistics*<br/>
 ([*ACL 2024*](https://2024.aclweb.org)), To appear, August 2024. [<a style="text-decoration: none;" href="https://arxiv.org/abs/2404.15247">paper</a>]
 * **Magicoder: Source Code Is All You Need**<br/>
