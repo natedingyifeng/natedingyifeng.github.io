@@ -56,12 +56,12 @@ Quan Zhang, **Yifeng Ding**, Yongqiang Tian, Jianmin Guo, Min Yuan, Yu Jiang<br/
 *30th ACM International Symposium on Software Testing and Analysis*<br/>
 ([*ISSTA 2021*](https://conf.researchr.org/home/issta-2021)), Pages 127--138, July 2021. [<a style="text-decoration: none;" href="https://dl.acm.org/doi/10.1145/3460319.3464809">paper</a>]
 
-Academic Service
+Academic Services
 ======
 * **Reviewer**: AISTATS’25, ICLR’25, NeurIPS’24, ACL’24, EMNLP’24, NAACL’25
 * **Organizing Committee**: [LLM4Code@ICSE'25](https://llm4code.github.io/) (International Workshop on Large Language Models for Code, co-organized with ICSE’25), [LLM4Code@ICSE'24](https://llm4code.github.io/2024/)
 
-Talk
+Talks
 ======
 * [UIUC FM/SE Seminar](https://calendars.illinois.edu/detail/5598?eventId=33503939) (10/2024): "**Horizon-Length Prediction: Advancing Fill-in-the-Middle Capabilities for Code Generation with Lookahead Planning**"
 * [Amazon Comprehend Team](https://aws.amazon.com/comprehend/) (07/2024): "**XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts**"
