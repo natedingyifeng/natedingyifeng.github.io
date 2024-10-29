@@ -22,15 +22,15 @@ I obtained my bachelor's degrees at [Tsinghua University](https://www.tsinghua.e
 * **[2022-01]** I'm thrilled to get accepted into the Ph.D. program at [Illinois CS](https://cs.illinois.edu/)!
 * **[2021-07]** One research paper on *Deep Learning Robustness* published at [ISSTA'21](https://conf.researchr.org/home/issta-2021)!  -->
 
-Selected Publications & Preprints
+Selected Publications & Preprints (See full list on [Google Scholar](https://scholar.google.com/citations?user=ipXUDHgAAAAJ))
 ======
 * **Horizon-Length Prediction: Advancing Fill-in-the-Middle Capabilities for Code Generation with Lookahead Planning**<br/>
 **Yifeng Ding**, Hantian Ding, Shiqi Wang, Qing Sun, Varun Kumar, and Zijian Wang<br/>
-*arXiv* [<a style="text-decoration: none;" href="https://arxiv.org/abs/2410.03103">preprint</a>]
+*arXiv* [<a style="text-decoration: none;" href="https://arxiv.org/abs/2410.03103">preprint</a>] [<a style="text-decoration: none;" href="https://x.com/YifengDing_/status/1843312247080132892">twitter</a>]
 * **XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts**<br/>
 **Yifeng Ding**, Jiawei Liu, Yuxiang Wei, and Lingming Zhang<br/>
 *62nd Annual Meeting of the Association for Computational Linguistics*<br/>
-([*ACL 2024*](https://2024.aclweb.org)), Pages 12941–-12955, August 2024. [<a style="text-decoration: none;" href="https://aclanthology.org/2024.acl-long.699/">paper</a>] [<a style="text-decoration: none;" href="https://github.com/ise-uiuc/xft">code</a>]
+([*ACL 2024*](https://2024.aclweb.org)), Pages 12941–-12955, August 2024. [<a style="text-decoration: none;" href="https://aclanthology.org/2024.acl-long.699/">paper</a>] [<a style="text-decoration: none;" href="https://x.com/YifengDing_/status/1800324304221147491">twitter</a>] [<a style="text-decoration: none;" href="https://github.com/ise-uiuc/xft">code</a>]
 * **Fully Transparent Self-Alignment for Code Generation**<br/>
 Yuxiang Wei, Federico Cassano, Jiawei Liu, **Yifeng Ding**, Naman Jain, Zachary Mueller, Harm de Vries, Leandro Von Werra, Arjun Guha, and Lingming Zhang<br/>
 *Thirty-eighth Conference on Neural Information Processing Systems*<br/>
