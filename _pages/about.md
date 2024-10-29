@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year CS Ph.D. student at the [University of Illinois Urbana-Champaign](https://illinois.edu/) in the [PL/FM/SE](https://cs.illinois.edu/research/areas/programming-languages-formal-methods-and-software-engineering) group, advised by Prof. [Lingming Zhang](http://lingming.cs.illinois.edu/). 
+I am a CS Ph.D. student at the [University of Illinois Urbana-Champaign](https://illinois.edu/) in the [PL/FM/SE](https://cs.illinois.edu/research/areas/programming-languages-formal-methods-and-software-engineering) group, advised by Prof. [Lingming Zhang](http://lingming.cs.illinois.edu/). 
 
-My research interest lies in Software Engineering and its synergy with Machine Learning, with a focus on improving software engineering with generative models. You can find my CV [here](/files/Yifeng_CV.pdf).<br/>
+My primary research fields are Software Engineering and Machine Learning. I focus on building language models to solve software engineering tasks, with specific interests in improving reasoning and planning capabilities of LLMs for code generation and repair. You can find my CV [here](/files/Yifeng_CV.pdf).<br/>
 
 I obtained my bachelor's degrees at [Tsinghua University](https://www.tsinghua.edu.cn/en/), including one in Software Engineering from the [School of Software](https://www.thss.tsinghua.edu.cn/en/) and one in Business Administration from the [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/). I was a research assistant at [Software System Security Assurance Group](http://www.wingtecher.com/homeen) during my undergraduate years, advised by Prof. [Yu Jiang](https://sites.google.com/site/jiangyu198964/home).<br/>
 
@@ -22,16 +22,27 @@ I obtained my bachelor's degrees at [Tsinghua University](https://www.tsinghua.e
 * **[2022-01]** I'm thrilled to get accepted into the Ph.D. program at [Illinois CS](https://cs.illinois.edu/)!
 * **[2021-07]** One research paper on *Deep Learning Robustness* published at [ISSTA'21](https://conf.researchr.org/home/issta-2021)!  -->
 
-Selected Publications
+Selected Publications & Preprints
 ======
-* **${\mathcal X}$FT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts**<br/>
+* **Horizon-Length Prediction: Advancing Fill-in-the-Middle Capabilities for Code Generation with Lookahead Planning**<br/>
+**Yifeng Ding**, Hantian Ding, Shiqi Wang, Qing Sun, Varun Kumar, and Zijian Wang<br/>
+*arXiv* [<a style="text-decoration: none;" href="https://arxiv.org/abs/2410.03103">preprint</a>]
+* **XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts**<br/>
 **Yifeng Ding**, Jiawei Liu, Yuxiang Wei, and Lingming Zhang<br/>
 *62nd Annual Meeting of the Association for Computational Linguistics*<br/>
-([*ACL 2024*](https://2024.aclweb.org)), To appear, August 2024. [<a style="text-decoration: none;" href="https://arxiv.org/abs/2404.15247">preprint</a>] (**published version to appear**)
-* **Magicoder: Source Code Is All You Need**<br/>
+([*ACL 2024*](https://2024.aclweb.org)), Pages 12941–-12955, August 2024. [<a style="text-decoration: none;" href="https://aclanthology.org/2024.acl-long.699/">paper</a>]
+* **Fully Transparent Self-Alignment for Code Generation**<br/>
+Yuxiang Wei, Federico Cassano, Jiawei Liu, **Yifeng Ding**, Naman Jain, Zachary Mueller, Harm de Vries, Leandro Von Werra, Arjun Guha, and Lingming Zhang<br/>
+*Thirty-eighth Conference on Neural Information Processing Systems*<br/>
+([*NeurIPS 2024*](https://neurips.cc/Conferences/2024)), To appear, December 2024. [<a style="text-decoration: none;" href="https://huggingface.co/blog/sc2-instruct">blog</a>] (**published version to appear**)
+* **Magicoder: Empowering Code Generation with OSS-Instruct**<br/>
 Yuxiang Wei, Zhe Wang, Jiawei Liu, **Yifeng Ding**, and Lingming Zhang<br/>
 *Forty-first International Conference on Machine Learning*<br/>
-([*ICML 2024*](https://icml.cc/Conferences/2024)), To appear, July 2024. [<a style="text-decoration: none;" href="https://arxiv.org/abs/2312.02120">preprint</a>] (**published version to appear**)
+([*ICML 2024*](https://icml.cc/Conferences/2024)), Pages 52632--52657, July 2024. [<a style="text-decoration: none;" href="https://proceedings.mlr.press/v235/wei24h.html">paper</a>]
+* **Evaluating Language Models for Efficient Code Generation**<br/>
+Jiawei Liu, Songrun Xie, Junhao Wang, Yuxiang Wei, **Yifeng Ding**, and Lingming Zhang<br/>
+*First Conference on Language Modeling*<br/>
+([*COLM 2024*](https://colmweb.org/)), Pages 52632--52657, October 2024. [<a style="text-decoration: none;" href="https://openreview.net/forum?id=IBCBMeAhmC">paper</a>]
 * **The Plastic Surgery Hypothesis in the Era of Large Language Models**<br/>
 Chunqiu Steven Xia, **Yifeng Ding**, and Lingming Zhang<br/>
 *38th IEEE/ACM International Conference on Automated Software Engineering*<br/>
@@ -47,13 +58,14 @@ Quan Zhang, **Yifeng Ding**, Yongqiang Tian, Jianmin Guo, Min Yuan, Yu Jiang<br/
 
 Academic Service
 ======
-* Reviewer: NAACL/ARR 2024 Jun, NeurIPS 2024, ACL/ARR 2024 Feb
-* Organizing Committee: [LLM4Code@ICSE'24](https://llm4code.github.io/)
+* Reviewer: AISTATS’25, ICLR’25, NeurIPS’24, ACL’24, EMNLP’24, NAACL’25
+* Organizing Committee: [LLM4Code@ICSE'25](https://llm4code.github.io/) (International Workshop on Large Language Models for Code, co-organized with ICSE’25), [LLM4Code@ICSE'24](https://llm4code.github.io/2024/)
 
 Talk
 ======
-* [AWS Comprehend - Deep NLP Reading Group](https://aws.amazon.com/comprehend/): ${\mathcal X}$FT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts
-* [Uber Programming Systems Team](https://www.uber.com/us/en/about/science/): Equipping Large Language Models with Domain-Specific Knowledge for Automated Program Repair.
+* [UIUC FM/SE Seminar](https://calendars.illinois.edu/detail/5598?eventId=33503939): "Horizon-Length Prediction: Advancing Fill-in-the-Middle Capabilities for Code Generation with Lookahead Planning"
+* [Amazon Comprehend Team](https://aws.amazon.com/comprehend/): "XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts"
+* [Uber Programming Systems Team](https://www.uber.com/fr/en/about/science/): "Equipping Large Language Models with Domain-Specific Knowledge for Automated Program Repair"
 
 Contacts
 ======
