@@ -22,7 +22,7 @@ I obtained my bachelor's degrees at [Tsinghua University](https://www.tsinghua.e
 * **[2022-01]** I'm thrilled to get accepted into the Ph.D. program at [Illinois CS](https://cs.illinois.edu/)!
 * **[2021-07]** One research paper on *Deep Learning Robustness* published at [ISSTA'21](https://conf.researchr.org/home/issta-2021)!  -->
 
-Selected Publications & Preprints (See full list on [Google Scholar](https://scholar.google.com/citations?user=ipXUDHgAAAAJ))
+Selected Publications (See full list on [Google Scholar](https://scholar.google.com/citations?user=ipXUDHgAAAAJ))
 ======
 * **Horizon-Length Prediction: Advancing Fill-in-the-Middle Capabilities for Code Generation with Lookahead Planning**<br/>
 **Yifeng Ding**, Hantian Ding, Shiqi Wang, Qing Sun, Varun Kumar, and Zijian Wang<br/>
@@ -61,7 +61,7 @@ Academic Services
 * **Reviewer**: AISTATS’25, ICLR’25, NeurIPS’24, ACL’24, EMNLP’24, NAACL’25
 * **Organizing Committee**: [LLM4Code@ICSE'25](https://llm4code.github.io/) (International Workshop on Large Language Models for Code, co-organized with ICSE’25), [LLM4Code@ICSE'24](https://llm4code.github.io/2024/)
 
-Talks
+Invited Talks
 ======
 * [UIUC FM/SE Seminar](https://calendars.illinois.edu/detail/5598?eventId=33503939) (10/2024): "**Horizon-Length Prediction: Advancing Fill-in-the-Middle Capabilities for Code Generation with Lookahead Planning**"
 * [Amazon Comprehend Team](https://aws.amazon.com/comprehend/) (07/2024): "**XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts**"
