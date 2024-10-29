@@ -42,7 +42,7 @@ Yuxiang Wei, Zhe Wang, Jiawei Liu, **Yifeng Ding**, and Lingming Zhang<br/>
 * **Evaluating Language Models for Efficient Code Generation**<br/>
 Jiawei Liu, Songrun Xie, Junhao Wang, Yuxiang Wei, **Yifeng Ding**, and Lingming Zhang<br/>
 *First Conference on Language Modeling*<br/>
-([*COLM 2024*](https://colmweb.org/)), Pages 52632--52657, October 2024. [<a style="text-decoration: none;" href="https://openreview.net/forum?id=IBCBMeAhmC">paper</a>]
+([*COLM 2024*](https://colmweb.org/)), October 2024. [<a style="text-decoration: none;" href="https://openreview.net/forum?id=IBCBMeAhmC">paper</a>]
 * **The Plastic Surgery Hypothesis in the Era of Large Language Models**<br/>
 Chunqiu Steven Xia, **Yifeng Ding**, and Lingming Zhang<br/>
 *38th IEEE/ACM International Conference on Automated Software Engineering*<br/>
@@ -63,9 +63,9 @@ Academic Service
 
 Talk
 ======
-* [UIUC FM/SE Seminar](https://calendars.illinois.edu/detail/5598?eventId=33503939): "Horizon-Length Prediction: Advancing Fill-in-the-Middle Capabilities for Code Generation with Lookahead Planning"
-* [Amazon Comprehend Team](https://aws.amazon.com/comprehend/): "XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts"
-* [Uber Programming Systems Team](https://www.uber.com/fr/en/about/science/): "Equipping Large Language Models with Domain-Specific Knowledge for Automated Program Repair"
+* [UIUC FM/SE Seminar](https://calendars.illinois.edu/detail/5598?eventId=33503939) (10/2024): "Horizon-Length Prediction: Advancing Fill-in-the-Middle Capabilities for Code Generation with Lookahead Planning"
+* [Amazon Comprehend Team](https://aws.amazon.com/comprehend/) (07/2024): "XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts"
+* [Uber Programming Systems Team](https://www.uber.com/fr/en/about/science/) (04/2023): "Equipping Large Language Models with Domain-Specific Knowledge for Automated Program Repair"
 
 Contacts
 ======
