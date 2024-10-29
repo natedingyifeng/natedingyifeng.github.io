@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a CS Ph.D. student at the [University of Illinois Urbana-Champaign](https://illinois.edu/) in the [PL/FM/SE](https://cs.illinois.edu/research/areas/programming-languages-formal-methods-and-software-engineering) group, advised by Prof. [Lingming Zhang](http://lingming.cs.illinois.edu/). 
 
-My research fields are Software Engineering and Machine Learning. Specifically, I focus on building language models to solve software engineering tasks, with specific interests in **improving LLMs' reasoning and planning capabilities** for **code generation and program repair**. You can find my CV [here](/files/Yifeng_CV.pdf).<br/>
+My research fields are Software Engineering and Machine Learning. Specifically, I focus on building language models to solve software engineering tasks, with specific interests in **improving LLMs' reasoning and planning capabilities** for **code generation and repair**. You can find my CV [here](/files/Yifeng_CV.pdf).<br/>
 
 I obtained my bachelor's degrees at [Tsinghua University](https://www.tsinghua.edu.cn/en/), including one in Software Engineering from the [School of Software](https://www.thss.tsinghua.edu.cn/en/) and one in Business Administration from the [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/). I was a research assistant at [Software System Security Assurance Group](http://www.wingtecher.com/homeen) during my undergraduate years, advised by Prof. [Yu Jiang](https://sites.google.com/site/jiangyu198964/home).<br/>
 
