@@ -34,7 +34,7 @@ Selected Publications & Preprints
 * **Fully Transparent Self-Alignment for Code Generation**<br/>
 Yuxiang Wei, Federico Cassano, Jiawei Liu, **Yifeng Ding**, Naman Jain, Zachary Mueller, Harm de Vries, Leandro Von Werra, Arjun Guha, and Lingming Zhang<br/>
 *Thirty-eighth Conference on Neural Information Processing Systems*<br/>
-([*NeurIPS 2024*](https://neurips.cc/Conferences/2024)), To appear, December 2024. [<a style="text-decoration: none;" href="https://huggingface.co/blog/sc2-instruct">blog</a>] (**published version to appear**) [<a style="text-decoration: none;" href="https://github.com/bigcode-project/starcoder2-self-align">code</a>] [<a style="text-decoration: none;" href="https://huggingface.co/bigcode/starcoder2-15b-instruct-v0.1">model</a>] [<a style="text-decoration: none;" href="https://huggingface.co/datasets/bigcode/self-oss-instruct-sc2-exec-filter-50k">dataset</a>]
+([*NeurIPS 2024*](https://neurips.cc/Conferences/2024)), To appear, December 2024. [<a style="text-decoration: none;" href="https://huggingface.co/blog/sc2-instruct">blog</a>] [<a style="text-decoration: none;" href="https://github.com/bigcode-project/starcoder2-self-align">code</a>] [<a style="text-decoration: none;" href="https://huggingface.co/bigcode/starcoder2-15b-instruct-v0.1">model</a>] [<a style="text-decoration: none;" href="https://huggingface.co/datasets/bigcode/self-oss-instruct-sc2-exec-filter-50k">dataset</a>]
 * **Magicoder: Empowering Code Generation with OSS-Instruct**<br/>
 Yuxiang Wei, Zhe Wang, Jiawei Liu, **Yifeng Ding**, and Lingming Zhang<br/>
 *Forty-first International Conference on Machine Learning*<br/>
