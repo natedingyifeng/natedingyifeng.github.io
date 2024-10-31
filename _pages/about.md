@@ -26,11 +26,11 @@ Selected Publications (See full list on [Google Scholar](https://scholar.google.
 ======
 * **Horizon-Length Prediction: Advancing Fill-in-the-Middle Capabilities for Code Generation with Lookahead Planning**<br/>
 **Yifeng Ding**, Hantian Ding, Shiqi Wang, Qing Sun, Varun Kumar, and Zijian Wang<br/>
-*arXiv* [<a style="text-decoration: none;" href="https://arxiv.org/abs/2410.03103">preprint</a>] [<a style="text-decoration: none;" href="https://x.com/YifengDing_/status/1843312247080132892">twitter</a>]
+arXiv. [<a style="text-decoration: none;" href="https://arxiv.org/abs/2410.03103">preprint</a>] [<a style="text-decoration: none;" href="https://x.com/YifengDing_/status/1843312247080132892">summary</a>]
 * **XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts**<br/>
 **Yifeng Ding**, Jiawei Liu, Yuxiang Wei, and Lingming Zhang<br/>
 *62nd Annual Meeting of the Association for Computational Linguistics*<br/>
-([*ACL 2024*](https://2024.aclweb.org)), Pages 12941–-12955, August 2024. [<a style="text-decoration: none;" href="https://aclanthology.org/2024.acl-long.699/">paper</a>] [<a style="text-decoration: none;" href="https://x.com/YifengDing_/status/1800324304221147491">twitter</a>] [<a style="text-decoration: none;" href="https://github.com/ise-uiuc/xft">code</a>]
+([*ACL 2024*](https://2024.aclweb.org)), Pages 12941–-12955, August 2024. [<a style="text-decoration: none;" href="https://aclanthology.org/2024.acl-long.699/">paper</a>] [<a style="text-decoration: none;" href="https://x.com/YifengDing_/status/1800324304221147491">summary</a>] [<a style="text-decoration: none;" href="https://github.com/ise-uiuc/xft">code</a>]
 * **Fully Transparent Self-Alignment for Code Generation**<br/>
 Yuxiang Wei, Federico Cassano, Jiawei Liu, **Yifeng Ding**, Naman Jain, Zachary Mueller, Harm de Vries, Leandro Von Werra, Arjun Guha, and Lingming Zhang<br/>
 *Thirty-eighth Conference on Neural Information Processing Systems*<br/>
