@@ -47,14 +47,14 @@ Jiawei Liu, Songrun Xie, Junhao Wang, Yuxiang Wei, **Yifeng Ding**, and Lingming
 Chunqiu Steven Xia, **Yifeng Ding**, and Lingming Zhang<br/>
 *38th IEEE/ACM International Conference on Automated Software Engineering*<br/>
 ([*ASE 2023*](https://conf.researchr.org/home/ase-2023)), Pages 522--534, September 2023. [<a style="text-decoration: none;" href="https://www.computer.org/csdl/proceedings-article/ase/2023/299600a522/1SBGpT02wpy">paper</a>]
-* **CoopHance: Cooperative Enhancement for Robustness of Deep Learning Systems**<br/>
+<!-- * **CoopHance: Cooperative Enhancement for Robustness of Deep Learning Systems**<br/>
 <a style="color: #494e52; text-decoration: none; cursor: text; user-select: text;" href="javascript:return false;" draggable="false" oncontextmenu="return false"><font size="3">Quan Zhang, Yongqiang Tian, <strong>Yifeng Ding</strong>, Shanshan Li, Chengnian Sun, Yu Jiang, Jiaguang Sun</font></a><br/>
 *32nd ACM International Symposium on Software Testing and Analysis*<br/>
 ([*ISSTA 2023*](https://conf.researchr.org/home/issta-2023)), Pages 753--765, July 2023. [<a style="text-decoration: none;" href="https://dl.acm.org/doi/abs/10.1145/3597926.3598093">paper</a>]
 * **AdvDoor: Adversarial Backdoor Attack of Deep Learning System**<br/>
 Quan Zhang, **Yifeng Ding**, Yongqiang Tian, Jianmin Guo, Min Yuan, Yu Jiang<br/>
 *30th ACM International Symposium on Software Testing and Analysis*<br/>
-([*ISSTA 2021*](https://conf.researchr.org/home/issta-2021)), Pages 127--138, July 2021. [<a style="text-decoration: none;" href="https://dl.acm.org/doi/10.1145/3460319.3464809">paper</a>]
+([*ISSTA 2021*](https://conf.researchr.org/home/issta-2021)), Pages 127--138, July 2021. [<a style="text-decoration: none;" href="https://dl.acm.org/doi/10.1145/3460319.3464809">paper</a>] -->
 
 Academic Services
 ======
