@@ -43,6 +43,10 @@ Yuxiang Wei, Zhe Wang, Jiawei Liu, **Yifeng Ding**, and Lingming Zhang<br/>
 Jiawei Liu, Songrun Xie, Junhao Wang, Yuxiang Wei, **Yifeng Ding**, and Lingming Zhang<br/>
 *First Conference on Language Modeling*<br/>
 ([*COLM 2024*](https://colmweb.org/)), October 2024. [<a style="text-decoration: none;" href="https://openreview.net/forum?id=IBCBMeAhmC">paper</a>] [<a style="text-decoration: none;" href="https://github.com/evalplus/evalplus">code</a>]
+* **RepoQA: Evaluating Long Context Code Understanding**<br/>
+Jiawei Liu, Jia Le Tian, Vijay Daita, Yuxiang Wei, **Yifeng Ding**, Yuhan Katherine Wang, Jun Yang, Lingming Zhang<br/>
+*First Workshop on Long-Context Foundation Models @ ICML 2024*<br/>
+([*LCFM @ ICML 2024*](https://longcontextfm.github.io/)), July 2024. [<a style="text-decoration: none;" href="https://openreview.net/forum?id=hK9YSrFuGf">paper</a>] [<a style="text-decoration: none;" href="https://github.com/evalplus/repoqa">code</a>]
 * **The Plastic Surgery Hypothesis in the Era of Large Language Models**<br/>
 Chunqiu Steven Xia, **Yifeng Ding**, and Lingming Zhang<br/>
 *38th IEEE/ACM International Conference on Automated Software Engineering*<br/>
