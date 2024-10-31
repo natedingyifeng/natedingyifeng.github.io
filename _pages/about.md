@@ -38,7 +38,7 @@ Yuxiang Wei, Federico Cassano, Jiawei Liu, **Yifeng Ding**, Naman Jain, Zachary 
 * **Magicoder: Empowering Code Generation with OSS-Instruct**<br/>
 Yuxiang Wei, Zhe Wang, Jiawei Liu, **Yifeng Ding**, and Lingming Zhang<br/>
 *Forty-first International Conference on Machine Learning*<br/>
-([*ICML 2024*](https://icml.cc/Conferences/2024)), Pages 52632--52657, July 2024. [<a style="text-decoration: none;" href="https://proceedings.mlr.press/v235/wei24h.html">paper</a>] [<a style="text-decoration: none;" href="https://github.com/ise-uiuc/magicoder">code</a>] [<a style="text-decoration: none;" href="https://huggingface.co/ise-uiuc/Magicoder-DS-6.7B">model</a>] [<a style="text-decoration: none;" href="https://huggingface.co/datasets/ise-uiuc/Magicoder-OSS-Instruct-75K">dataset</a>]
+([*ICML 2024*](https://icml.cc/Conferences/2024)), Pages 52632--52657, July 2024. [<a style="text-decoration: none;" href="https://proceedings.mlr.press/v235/wei24h.html">paper</a>] [<a style="text-decoration: none;" href="https://github.com/ise-uiuc/magicoder">code</a>] [<a style="text-decoration: none;" href="https://huggingface.co/ise-uiuc/Magicoder-S-DS-6.7B">model</a>] [<a style="text-decoration: none;" href="https://huggingface.co/datasets/ise-uiuc/Magicoder-OSS-Instruct-75K">dataset</a>]
 * **Evaluating Language Models for Efficient Code Generation**<br/>
 Jiawei Liu, Songrun Xie, Junhao Wang, Yuxiang Wei, **Yifeng Ding**, and Lingming Zhang<br/>
 *First Conference on Language Modeling*<br/>
