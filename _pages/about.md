@@ -47,6 +47,7 @@ Jiawei Liu, Songrun Xie, Junhao Wang, Yuxiang Wei, **Yifeng Ding**, and Lingming
 Chunqiu Steven Xia, **Yifeng Ding**, and Lingming Zhang<br/>
 *38th IEEE/ACM International Conference on Automated Software Engineering*<br/>
 ([*ASE 2023*](https://conf.researchr.org/home/ase-2023)), Pages 522--534, September 2023. [<a style="text-decoration: none;" href="https://www.computer.org/csdl/proceedings-article/ase/2023/299600a522/1SBGpT02wpy">paper</a>]
+
 <!-- * **CoopHance: Cooperative Enhancement for Robustness of Deep Learning Systems**<br/>
 <a style="color: #494e52; text-decoration: none; cursor: text; user-select: text;" href="javascript:return false;" draggable="false" oncontextmenu="return false"><font size="3">Quan Zhang, Yongqiang Tian, <strong>Yifeng Ding</strong>, Shanshan Li, Chengnian Sun, Yu Jiang, Jiaguang Sun</font></a><br/>
 *32nd ACM International Symposium on Software Testing and Analysis*<br/>
