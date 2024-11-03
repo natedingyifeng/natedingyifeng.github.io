@@ -31,10 +31,10 @@ Selected Publications (See full list on [Google Scholar](https://scholar.google.
 **Yifeng Ding**, Jiawei Liu, Yuxiang Wei, and Lingming Zhang<br/>
 *62nd Annual Meeting of the Association for Computational Linguistics*<br/>
 ([*ACL 2024*](https://2024.aclweb.org)), Pages 12941–-12955, August 2024. [<a style="text-decoration: none;" href="https://aclanthology.org/2024.acl-long.699/">paper</a>] [<a style="text-decoration: none;" href="https://x.com/YifengDing_/status/1800324304221147491">summary</a>] [<a style="text-decoration: none;" href="https://github.com/ise-uiuc/xft">code</a>]
-* **Fully Transparent Self-Alignment for Code Generation**<br/>
+* **SelfCodeAlign: Self-Alignment for Code Generation**<br/>
 Yuxiang Wei, Federico Cassano, Jiawei Liu, **Yifeng Ding**, Naman Jain, Zachary Mueller, Harm de Vries, Leandro Von Werra, Arjun Guha, and Lingming Zhang<br/>
 *Thirty-eighth Conference on Neural Information Processing Systems*<br/>
-([*NeurIPS 2024*](https://neurips.cc/Conferences/2024)), To appear, December 2024. [<a style="text-decoration: none;" href="https://huggingface.co/blog/sc2-instruct">blog</a>] [<a style="text-decoration: none;" href="https://github.com/bigcode-project/starcoder2-self-align">code</a>] [<a style="text-decoration: none;" href="https://huggingface.co/bigcode/starcoder2-15b-instruct-v0.1">model</a>] [<a style="text-decoration: none;" href="https://huggingface.co/datasets/bigcode/self-oss-instruct-sc2-exec-filter-50k">dataset</a>]
+([*NeurIPS 2024*](https://neurips.cc/Conferences/2024)), To appear, December 2024. [<a style="text-decoration: none;" href="https://arxiv.org/abs/2410.24198">preprint</a>] [<a style="text-decoration: none;" href="https://github.com/bigcode-project/starcoder2-self-align">code</a>] [<a style="text-decoration: none;" href="https://huggingface.co/bigcode/starcoder2-15b-instruct-v0.1">model</a>] [<a style="text-decoration: none;" href="https://huggingface.co/datasets/bigcode/self-oss-instruct-sc2-exec-filter-50k">dataset</a>]
 * **Magicoder: Empowering Code Generation with OSS-Instruct**<br/>
 Yuxiang Wei, Zhe Wang, Jiawei Liu, **Yifeng Ding**, and Lingming Zhang<br/>
 *Forty-first International Conference on Machine Learning*<br/>
