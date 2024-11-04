@@ -26,7 +26,7 @@ Selected Publications (See full list on [Google Scholar](https://scholar.google.
 ======
 * **Horizon-Length Prediction: Advancing Fill-in-the-Middle Capabilities for Code Generation with Lookahead Planning**<br/>
 **Yifeng Ding**, Hantian Ding, Shiqi Wang, Qing Sun, Varun Kumar, and Zijian Wang<br/>
-*arXiv*. [<a style="text-decoration: none;" href="https://arxiv.org/abs/2410.03103">preprint</a>] [<a style="text-decoration: none;" href="https://x.com/YifengDing_/status/1843312247080132892">summary</a>]
+*arXiv*; *NeurIPS 2024 System 2 Reasoning Workshop*. [<a style="text-decoration: none;" href="https://arxiv.org/abs/2410.03103">preprint</a>] [<a style="text-decoration: none;" href="https://x.com/YifengDing_/status/1843312247080132892">summary</a>]
 * **XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts**<br/>
 **Yifeng Ding**, Jiawei Liu, Yuxiang Wei, and Lingming Zhang<br/>
 *62nd Annual Meeting of the Association for Computational Linguistics*<br/>
