@@ -68,6 +68,7 @@ Academic Services
 
 Invited Talks
 ======
+* [UCLA Artificial General Intelligence Lab](https://www.uclaml.org/) (11/2024): "**Improving Code Language Modeling via Horizon-Length Prediction**"
 * [UIUC FM/SE Seminar](https://calendars.illinois.edu/detail/5598?eventId=33503939) (10/2024): "**Horizon-Length Prediction: Advancing Fill-in-the-Middle Capabilities for Code Generation with Lookahead Planning**"
 * [Amazon Comprehend Team](https://aws.amazon.com/comprehend/) (07/2024): "**XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts**"
 * [Uber Programming Systems Team](https://www.uber.com/fr/en/about/science/) (04/2023): "**Equipping Large Language Models with Domain-Specific Knowledge for Automated Program Repair**"
