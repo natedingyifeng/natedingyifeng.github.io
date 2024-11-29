@@ -68,7 +68,7 @@ Academic Services
 
 Invited Talks
 ======
-* [CAMEL-AI](https://www.linkedin.com/posts/camel-ai-org_live-talk-on-horizon-length-prediction-activity-7264338416983588866-lQcX) (11/2024): "**Horizon-Length Prediction: Advancing Fill-in-the-Middle Capabilities for Code Generation with Lookahead Planning**"
+* [CAMEL-AI.org](https://www.linkedin.com/posts/camel-ai-org_live-talk-on-horizon-length-prediction-activity-7264338416983588866-lQcX) (11/2024): "**Horizon-Length Prediction: Advancing Fill-in-the-Middle Capabilities for Code Generation with Lookahead Planning**"
 * [UCLA AGI Lab](https://www.uclaml.org/) (11/2024): "**Improving Code Language Modeling via Horizon-Length Prediction**"
 * [UIUC FM/SE Seminar](https://calendars.illinois.edu/detail/5598?eventId=33503939) (10/2024): "**Horizon-Length Prediction: Advancing Fill-in-the-Middle Capabilities for Code Generation with Lookahead Planning**"
 * [Amazon Comprehend Team](https://aws.amazon.com/comprehend/) (07/2024): "**XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts**"
