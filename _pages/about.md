@@ -68,7 +68,7 @@ Academic Services
 
 Teaching
 ======
-* [UIUC CS 521: ML and Compilers](https://sites.google.com/illinois.edu/cs521-sp25-mlcompilers/) (2025 Spring)<br/>
+* **UIUC CS 521: ML and Compilers** (2025 Spring) [<a style="text-decoration: none;" href="https://sites.google.com/illinois.edu/cs521-sp25-mlcompilers/">website</a>]<br/>
 with [Prof. Sasa Misailovic](https://misailo.cs.illinois.edu/) and [Prof. Charith Mendis](https://charithmendis.com/)
 
 Invited Talks
