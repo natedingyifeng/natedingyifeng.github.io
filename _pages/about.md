@@ -63,8 +63,12 @@ Quan Zhang, **Yifeng Ding**, Yongqiang Tian, Jianmin Guo, Min Yuan, Yu Jiang<br/
 
 Academic Services
 ======
-* **Reviewer**: AISTATS’25, ICLR’25, NeurIPS’24, ACL’24, EMNLP’24, NAACL’25
+* **Reviewer**: ICML, NeurIPS, ICLR, AISTATS, ACL/ARR, TOSEM (2024 - 2025)
 * **Organizing Committee**: [LLM4Code@ICSE'25](https://llm4code.github.io/) (International Workshop on Large Language Models for Code, co-organized with ICSE’25), [LLM4Code@ICSE'24](https://llm4code.github.io/2024/)
+
+Teaching
+======
+* [UIUC CS 521: ML and Compilers](https://sites.google.com/illinois.edu/cs521-sp25-mlcompilers/) (2025 Spring) with [Prof. Sasa Misailovic](https://misailo.cs.illinois.edu/) and [Prof. Charith Mendis](https://charithmendis.com/)
 
 Invited Talks
 ======
