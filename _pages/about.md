@@ -24,7 +24,7 @@ I obtained my bachelor's degrees at [Tsinghua University](https://www.tsinghua.e
 
 Selected Publications (See full list on [Google Scholar](https://scholar.google.com/citations?user=ipXUDHgAAAAJ))
 ======
-* **Horizon-Length Prediction: Advancing Fill-in-the-Middle Capabilities for Code Generation with Lookahead Planning**<br/>
+* **Planning-Aware Code Infilling via Horizon-Length Prediction**<br/>
 **Yifeng Ding**, Hantian Ding, Shiqi Wang, Qing Sun, Varun Kumar, and Zijian Wang<br/>
 *arXiv*; *NeurIPS 2024 System 2 Reasoning Workshop*. [<a style="text-decoration: none;" href="https://arxiv.org/abs/2410.03103">preprint</a>] [<a style="text-decoration: none;" href="https://x.com/YifengDing_/status/1843312247080132892">summary</a>]
 * **XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts**<br/>
