@@ -63,7 +63,7 @@ Quan Zhang, **Yifeng Ding**, Yongqiang Tian, Jianmin Guo, Min Yuan, Yu Jiang<br/
 
 Academic Services
 ======
-* **Reviewer**: ICML, NeurIPS, ICLR, AISTATS, ACL/ARR, TOSEM (2024 - 2025)
+* **Reviewer**: ICML, NeurIPS, ICLR, ACL/ARR, AAAI, AISTATS, TOSEM (2024 - 2025)
 * **Organizing Committee**: [LLM4Code@ICSE'25](https://llm4code.github.io/) (International Workshop on Large Language Models for Code, co-organized with ICSE’25), [LLM4Code@ICSE'24](https://llm4code.github.io/2024/)
 
 Teaching
