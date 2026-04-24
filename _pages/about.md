@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a CS Ph.D. student at the [University of Illinois Urbana-Champaign](https://illinois.edu/), advised by Prof. [Lingming Zhang](http://lingming.cs.illinois.edu/). I am also a research intern at [Meta FAIR](https://ai.meta.com/), working at FAIR CodeGen team. You can find my CV [here](/files/Yifeng_CV.pdf).
+I am a CS Ph.D. student at the [University of Illinois Urbana-Champaign](https://illinois.edu/), advised by Prof. [Lingming Zhang](http://lingming.cs.illinois.edu/). I am also a research intern at [Meta FAIR](https://ai.meta.com/), working at FAIR CodeGen team.
 
-I focus on building and improving **code LLMs** and **code agents** through **pre-training**, **post-training**, and **test-time scaling**.<br/>
+I focus on building and improving **code LLMs** and **code agents** through **pre-training**, **post-training**, and **test-time scaling**. You can find my CV [here](/files/Yifeng_CV.pdf).<br/>
 
 I obtained my bachelor's degrees at [Tsinghua University](https://www.tsinghua.edu.cn/en/), including one in Software Engineering from the [School of Software](https://www.thss.tsinghua.edu.cn/en/) and one in Business Administration from the [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/). I was a research assistant at [Software System Security Assurance Group](http://www.wingtecher.com/homeen) during my undergraduate years, advised by Prof. [Yu Jiang](https://sites.google.com/site/jiangyu198964/home).<br/>
 
@@ -34,11 +34,11 @@ Selected Publications (See full list on [Google Scholar](https://scholar.google.
 * **Planning-Aware Code Infilling via Horizon-Length Prediction**<br/>
 **Yifeng Ding**, Hantian Ding, Shiqi Wang, Qing Sun, Varun Kumar, and Zijian Wang<br/>
 *The 2025 Conference on Empirical Methods in Natural Language Processing*<br/>
-([*EMNLP 2025*](https://2025.emnlp.org/)), Pages 32930–-32942, November 2025. [<a style="text-decoration: none;" href="https://aclanthology.org/2025.emnlp-main.1672/">paper</a>] [<a style="text-decoration: none;" href="https://x.com/YifengDing_/status/1843312247080132892">summary</a>]
+([*EMNLP 2025*](https://2025.emnlp.org/)), Pages 32930--32942, November 2025. [<a style="text-decoration: none;" href="https://aclanthology.org/2025.emnlp-main.1672/">paper</a>] [<a style="text-decoration: none;" href="https://x.com/YifengDing_/status/1843312247080132892">summary</a>]
 * **XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts**<br/>
 **Yifeng Ding**, Jiawei Liu, Yuxiang Wei, and Lingming Zhang<br/>
 *62nd Annual Meeting of the Association for Computational Linguistics*<br/>
-([*ACL 2024*](https://2024.aclweb.org)), Pages 12941–-12955, August 2024. [<a style="text-decoration: none;" href="https://aclanthology.org/2024.acl-long.699/">paper</a>] [<a style="text-decoration: none;" href="https://x.com/YifengDing_/status/1800324304221147491">summary</a>] [<a style="text-decoration: none;" href="https://github.com/ise-uiuc/xft">code</a>]
+([*ACL 2024*](https://2024.aclweb.org)), Pages 12941--12955, August 2024. [<a style="text-decoration: none;" href="https://aclanthology.org/2024.acl-long.699/">paper</a>] [<a style="text-decoration: none;" href="https://x.com/YifengDing_/status/1800324304221147491">summary</a>] [<a style="text-decoration: none;" href="https://github.com/ise-uiuc/xft">code</a>]
 * **SelfCodeAlign: Self-Alignment for Code Generation**<br/>
 Yuxiang Wei, Federico Cassano, Jiawei Liu, **Yifeng Ding**, Naman Jain, Zachary Mueller, Harm de Vries, Leandro Von Werra, Arjun Guha, and Lingming Zhang<br/>
 *Thirty-eighth Conference on Neural Information Processing Systems*<br/>
