@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a CS Ph.D. student at the [University of Illinois Urbana-Champaign](https://illinois.edu/) in the [PL/FM/SE](https://cs.illinois.edu/research/areas/programming-languages-formal-methods-and-software-engineering) group, advised by Prof. [Lingming Zhang](http://lingming.cs.illinois.edu/). You can find my CV [here](/files/Yifeng_CV.pdf).
+I am a CS Ph.D. student at the [University of Illinois Urbana-Champaign](https://illinois.edu/), advised by Prof. [Lingming Zhang](http://lingming.cs.illinois.edu/). I am also a research intern at [Meta FAIR](https://ai.meta.com/), working at FAIR CodeGen team. You can find my CV [here](/files/Yifeng_CV.pdf).
 
-My research fields are Software Engineering and Machine Learning. Specifically, I focus on building large language models to solve software engineering tasks, with a specific interest in improving LLM's **reasoning and planning** capabilities for **code generation and repair** through **pre-training** and **post-training**.<br/>
+I focus on building and improving **code LLMs** and **code agents** through **pre-training**, **post-training**, and **test-time scaling**.<br/>
 
 I obtained my bachelor's degrees at [Tsinghua University](https://www.tsinghua.edu.cn/en/), including one in Software Engineering from the [School of Software](https://www.thss.tsinghua.edu.cn/en/) and one in Business Administration from the [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/). I was a research assistant at [Software System Security Assurance Group](http://www.wingtecher.com/homeen) during my undergraduate years, advised by Prof. [Yu Jiang](https://sites.google.com/site/jiangyu198964/home).<br/>
 
@@ -24,9 +24,17 @@ I obtained my bachelor's degrees at [Tsinghua University](https://www.tsinghua.e
 
 Selected Publications (See full list on [Google Scholar](https://scholar.google.com/citations?user=ipXUDHgAAAAJ))
 ======
+* **SWE-Replay: Efficient Test-Time Scaling for Software Engineering Agents**<br/>
+**Yifeng Ding** and Lingming Zhang<br/>
+*arXiv*. [<a style="text-decoration: none;" href="https://arxiv.org/abs/2601.22129/">preprint</a>]
+* **Empowering Multi-Turn Tool-Integrated Agentic Reasoning with Group Turn Policy Optimization**<br/>
+**Yifeng Ding**, Hung Le, Songyang Han, Kangrui Ruan, Zhenghui Jin, Varun Kumar, Zijian Wang, and Anoop Deoras<br/>
+*64th Annual Meeting of the Association for Computational Linguistics*<br/>
+([*ACL 2026*](https://2026.aclweb.org/)), To appear, July 2026. [<a style="text-decoration: none;" href="https://arxiv.org/abs/2511.14846/">preprint</a>]
 * **Planning-Aware Code Infilling via Horizon-Length Prediction**<br/>
 **Yifeng Ding**, Hantian Ding, Shiqi Wang, Qing Sun, Varun Kumar, and Zijian Wang<br/>
-*arXiv*; *NeurIPS 2024 System 2 Reasoning Workshop*. [<a style="text-decoration: none;" href="https://arxiv.org/abs/2410.03103">preprint</a>] [<a style="text-decoration: none;" href="https://x.com/YifengDing_/status/1843312247080132892">summary</a>]
+*The 2025 Conference on Empirical Methods in Natural Language Processing*<br/>
+([*EMNLP 2025*](https://2025.emnlp.org/)), Pages 32930–-32942, November 2025. [<a style="text-decoration: none;" href="https://aclanthology.org/2025.emnlp-main.1672/">paper</a>] [<a style="text-decoration: none;" href="https://x.com/YifengDing_/status/1843312247080132892">summary</a>]
 * **XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts**<br/>
 **Yifeng Ding**, Jiawei Liu, Yuxiang Wei, and Lingming Zhang<br/>
 *62nd Annual Meeting of the Association for Computational Linguistics*<br/>
@@ -34,7 +42,7 @@ Selected Publications (See full list on [Google Scholar](https://scholar.google.
 * **SelfCodeAlign: Self-Alignment for Code Generation**<br/>
 Yuxiang Wei, Federico Cassano, Jiawei Liu, **Yifeng Ding**, Naman Jain, Zachary Mueller, Harm de Vries, Leandro Von Werra, Arjun Guha, and Lingming Zhang<br/>
 *Thirty-eighth Conference on Neural Information Processing Systems*<br/>
-([*NeurIPS 2024*](https://neurips.cc/Conferences/2024)), To appear, December 2024. [<a style="text-decoration: none;" href="https://arxiv.org/abs/2410.24198">preprint</a>] [<a style="text-decoration: none;" href="https://github.com/bigcode-project/starcoder2-self-align">code</a>] [<a style="text-decoration: none;" href="https://huggingface.co/bigcode/starcoder2-15b-instruct-v0.1">model</a>] [<a style="text-decoration: none;" href="https://huggingface.co/datasets/bigcode/self-oss-instruct-sc2-exec-filter-50k">dataset</a>]
+([*NeurIPS 2024*](https://neurips.cc/Conferences/2024)), Pages 62787--62874, December 2024. [<a style="text-decoration: none;" href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/72da102da91a8042a0b2aa968429a9f9-Abstract-Conference.html">paper</a>] [<a style="text-decoration: none;" href="https://github.com/bigcode-project/starcoder2-self-align">code</a>] [<a style="text-decoration: none;" href="https://huggingface.co/bigcode/starcoder2-15b-instruct-v0.1">model</a>] [<a style="text-decoration: none;" href="https://huggingface.co/datasets/bigcode/self-oss-instruct-sc2-exec-filter-50k">dataset</a>]
 * **Magicoder: Empowering Code Generation with OSS-Instruct**<br/>
 Yuxiang Wei, Zhe Wang, Jiawei Liu, **Yifeng Ding**, and Lingming Zhang<br/>
 *Forty-first International Conference on Machine Learning*<br/>
