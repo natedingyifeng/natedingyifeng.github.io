@@ -30,7 +30,7 @@ Selected Publications (See full list on [Google Scholar](https://scholar.google.
 * **Empowering Multi-Turn Tool-Integrated Agentic Reasoning with Group Turn Policy Optimization**<br/>
 **Yifeng Ding**, Hung Le, Songyang Han, Kangrui Ruan, Zhenghui Jin, Varun Kumar, Zijian Wang, and Anoop Deoras<br/>
 *64th Annual Meeting of the Association for Computational Linguistics*<br/>
-([*ACL 2026*](https://2026.aclweb.org/)), To appear, July 2026. [<a style="text-decoration: none;" href="https://arxiv.org/abs/2511.14846/">preprint</a>]
+([*ACL 2026*](https://2026.aclweb.org/)), Pages 42409--42423, July 2026. [<a style="text-decoration: none;" href="https://aclanthology.org/2026.acl-long.1962/">paper</a>]
 * **Planning-Aware Code Infilling via Horizon-Length Prediction**<br/>
 **Yifeng Ding**, Hantian Ding, Shiqi Wang, Qing Sun, Varun Kumar, and Zijian Wang<br/>
 *The 2025 Conference on Empirical Methods in Natural Language Processing*<br/>
