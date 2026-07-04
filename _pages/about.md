@@ -71,7 +71,7 @@ Quan Zhang, **Yifeng Ding**, Yongqiang Tian, Jianmin Guo, Min Yuan, Yu Jiang<br/
 
 Academic Services
 ======
-* **Reviewer**: ICML, NeurIPS, ICLR, ACL/ARR, AAAI, AISTATS, TOSEM (2024 - 2025)
+* **Reviewer**: ICML, NeurIPS, ICLR, ACL/ARR, AAAI, AISTATS, TOSEM (2024 - 2026)
 * **Organizing Committee**: [LLM4Code@ICSE'25](https://llm4code.github.io/) (International Workshop on Large Language Models for Code, co-organized with ICSE’25), [LLM4Code@ICSE'24](https://llm4code.github.io/2024/)
 
 Teaching
@@ -81,6 +81,7 @@ with [Prof. Sasa Misailovic](https://misailo.cs.illinois.edu/) and [Prof. Charit
 
 Invited Talks
 ======
+* [Meta AI Orgs Reading Meeting](https://ai.meta.com/) (06/2026): "**SWE-Replay: Efficient Test-Time Scaling for Software Engineering Agents**"
 * [CAMEL-AI.org](https://www.linkedin.com/posts/camel-ai-org_live-talk-on-horizon-length-prediction-activity-7264338416983588866-lQcX) (11/2024): "**Horizon-Length Prediction: Advancing Fill-in-the-Middle Capabilities for Code Generation with Lookahead Planning**"
 * [UCLA AGI Lab](https://www.uclaml.org/) (11/2024): "**Improving Code Language Modeling via Horizon-Length Prediction**"
 * [UIUC FM/SE Seminar](https://calendars.illinois.edu/detail/5598?eventId=33503939) (10/2024): "**Horizon-Length Prediction: Advancing Fill-in-the-Middle Capabilities for Code Generation with Lookahead Planning**"
