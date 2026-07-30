@@ -51,7 +51,7 @@ Yuxiang Wei, Zhe Wang, Jiawei Liu, **Yifeng Ding**, and Lingming Zhang<br/>
 * **Evaluating Language Models for Efficient Code Generation**<br/>
 Jiawei Liu, Songrun Xie, Junhao Wang, Yuxiang Wei, **Yifeng Ding**, and Lingming Zhang<br/>
 *First Conference on Language Modeling*<br/>
-([*COLM 2024*](https://colmweb.org/)), October 2024. [<a style="text-decoration: none;" href="https://openreview.net/forum?id=IBCBMeAhmC">paper</a>] [<a style="text-decoration: none;" href="https://github.com/evalplus/evalplus">code</a>]
+([*COLM 2024*](https://colmweb.org/2024/)), October 2024. [<a style="text-decoration: none;" href="https://openreview.net/forum?id=IBCBMeAhmC">paper</a>] [<a style="text-decoration: none;" href="https://github.com/evalplus/evalplus">code</a>]
 * **RepoQA: Evaluating Long Context Code Understanding**<br/>
 Jiawei Liu, Jia Le Tian, Vijay Daita, Yuxiang Wei, **Yifeng Ding**, Yuhan Katherine Wang, Jun Yang, Lingming Zhang<br/>
 *First Workshop on Long-Context Foundation Models @ ICML 2024*<br/>
