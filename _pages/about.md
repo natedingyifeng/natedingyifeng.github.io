@@ -26,7 +26,8 @@ Selected Publications (See full list on [Google Scholar](https://scholar.google.
 ======
 * **SWE-Replay: Efficient Test-Time Scaling for Software Engineering Agents**<br/>
 **Yifeng Ding** and Lingming Zhang<br/>
-*arXiv*. [<a style="text-decoration: none;" href="https://arxiv.org/abs/2601.22129/">preprint</a>]
+*Third Conference on Language Modeling*<br/>
+([*COLM 2026*](https://colmweb.org/)), To Appear, October 2026. [<a style="text-decoration: none;" href="https://arxiv.org/abs/2601.22129/">preprint</a>]
 * **Empowering Multi-Turn Tool-Integrated Agentic Reasoning with Group Turn Policy Optimization**<br/>
 **Yifeng Ding**, Hung Le, Songyang Han, Kangrui Ruan, Zhenghui Jin, Varun Kumar, Zijian Wang, and Anoop Deoras<br/>
 *64th Annual Meeting of the Association for Computational Linguistics*<br/>
